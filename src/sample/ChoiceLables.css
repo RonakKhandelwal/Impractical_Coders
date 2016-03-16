@@ -1,0 +1,7 @@
+.label{
+    -fx-background-color: white;
+    -fx-text-fill: #a1b56c;
+    -fx-font-size: 150%;
+    -fx-font-style: italic;
+    -fx-font-weight: 300;
+}

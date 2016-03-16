@@ -1,0 +1,14 @@
+.root{
+    -fx-background-color: #383838;
+}
+.text-area{
+    -fx-background-color: black;
+    -fx-text-fill: #a1b56c;
+}
+.label{
+    -fx-text-fill: #a1b56c;
+}
+.scroll-pane{
+    -fx-background-color: #383838;
+
+}

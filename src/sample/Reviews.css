@@ -1,0 +1,20 @@
+.root{
+    -fx-background-color: #383838;
+}
+.text-area{
+    -fx-background-color: #d8d8d8;
+    -fx-text-fill: #dc9656;
+}
+.text-field{
+    -fx-text-fill: #dc9656;
+}
+.label{
+    -fx-text-fill: #a1b56c;
+}
+.choice-box{
+    -fx-background-color: #585858;
+}
+.scroll-pane{
+    -fx-background-color: #383838;
+    
+}
